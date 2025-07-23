@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4dd6161-228e-44d4-800a-da0f39b9f37f" name="Changes" comment="">
+    <list default="true" id="b4dd6161-228e-44d4-800a-da0f39b9f37f" name="Changes" comment="Update footer icons">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/footer/social.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header/02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header/03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/header/logo2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tugbaev04"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tugbaev04&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tugbaev04/email.git",
-    "accountId": "c99fc8b0-feb8-4858-bef8-51912775bacd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tugbaev04/email.git&quot;,
+    &quot;accountId&quot;: &quot;c99fc8b0-feb8-4858-bef8-51912775bacd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
@@ -54,6 +49,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
@@ -79,11 +75,33 @@
       <option name="presentableId" value="Default" />
       <updated>1753275681048</updated>
       <workItem from="1753275682537" duration="85000" />
-      <workItem from="1753275901015" duration="2409000" />
+      <workItem from="1753275901015" duration="4681000" />
+      <workItem from="1753291206654" duration="1256000" />
     </task>
+    <task id="LOCAL-00001" summary="Update footer icons">
+      <option name="closed" value="true" />
+      <created>1753284984797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753284984797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update footer icons">
+      <option name="closed" value="true" />
+      <created>1753284993758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753284993758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update footer icons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update footer icons" />
   </component>
 </project>
