@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4dd6161-228e-44d4-800a-da0f39b9f37f" name="Changes" comment="Update footer icons">
+    <list default="true" id="b4dd6161-228e-44d4-800a-da0f39b9f37f" name="Changes" comment="Pre-release update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/b.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +77,7 @@
       <updated>1753275681048</updated>
       <workItem from="1753275682537" duration="85000" />
       <workItem from="1753275901015" duration="4681000" />
-      <workItem from="1753291206654" duration="1256000" />
+      <workItem from="1753291206654" duration="3747000" />
     </task>
     <task id="LOCAL-00001" summary="Update footer icons">
       <option name="closed" value="true" />
@@ -94,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753284993758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pre-release update">
+      <option name="closed" value="true" />
+      <created>1753292759482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753292759482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update footer icons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update footer icons" />
+    <MESSAGE value="Pre-release update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre-release update" />
   </component>
 </project>
